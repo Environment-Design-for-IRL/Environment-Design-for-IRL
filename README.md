@@ -1,4 +1,4 @@
-### Hi there 👋
+### Code for Environment Design for Inverse Reinforcement Learning 
 
 <!--
 **Environment-Design-for-IRL/Environment-Design-for-IRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
